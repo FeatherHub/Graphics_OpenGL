@@ -20,15 +20,13 @@
 | `CG_Practice08_Texture` | LodePNG로 `2.png`를 읽어 GLUT 주전자에 매핑하고 조명, 래핑, 선형 필터링을 적용합니다. 방향키로 회전하고, `W`/`S` 거리를 조절합니다. |
 
 
-## 사용해야 하는 GLUT
+## 사용하는 GLUT
 
 **GLUT 3.7 Win32(x86)** 를 사용합니다.
 
 - 링크 라이브러리: `Glut/glut32.lib`
 - 런타임 DLL: `Glut/glut32.dll`
 - 헤더: `Glut/glut.h`
-- 빌드 플랫폼:  **Win32**
-
 
 ## 참고 자료
 
